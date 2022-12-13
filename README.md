@@ -2,13 +2,12 @@
 
 # BootCamp - Module 4 Challenge
 Student Name - Anush De Costa Module 4 Challenge Name - PyCitySchool Challenge
----------------------------------------------------------------------------------------
+
 # Summary
 ---------------------------------------------------------------------------------------
 
-The analysis obtained from the code shows the summary of school data for a local government area. This includes the total number of schools, total number of students, total budget, average maths and reading scores, and the percentage of students who passed maths, reading, and both. This information can be used to evaluate the performance of schools in the local government area and identify areas for improvement. <font colour="red">It should also be noted that using averages of averages does not lead to accurate results but it is assumed the results obtained from the analysis is accurate to draw the following conclusions.</font>
+The analysis obtained from the code shows the summary of school data for a local government area. This includes the total number of schools, total number of students, total budget, average maths and reading scores, and the percentage of students who passed maths, reading, and both. This information can be used to evaluate the performance of schools in the local government area and identify areas for improvement. <font color="red">It should also be noted that using averages of averages does not lead to accurate results but it is assumed the results obtained from the analysis is accurate to draw the following conclusions.</font>
 
----------------------------------------------------------------------------------------
 # Conclutions and/or comparisons
 ---------------------------------------------------------------------------------------
 
